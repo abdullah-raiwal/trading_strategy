@@ -1,0 +1,16 @@
+raw_file_name: 'raw.xlsx'
+
+buy_column: 'Buy Indicator'
+sell_column: 'Sell Indicator'
+
+processed_df_cols:
+
+   [
+   'buy',
+   'sell',
+   'stop_loss',
+   'min', 
+   'max'
+   ]
+
+   
